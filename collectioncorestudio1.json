@@ -1,0 +1,115 @@
+{
+    "black": {
+        "designers": [
+            
+        ],
+        "images": [
+            "igcollectioncorestudio/black1.jpg",
+            "igcollectioncorestudio/black2.jpg",
+            "igcollectioncorestudio/black3.jpg",
+            "igcollectioncorestudio/black4.jpg",
+            "igcollectioncorestudio/black5.jpg",
+            "igcollectioncorestudio/black6.jpg",
+            "igcollectioncorestudio/black7.jpg",
+            "igcollectioncorestudio/black8.jpg"
+        ]
+    },
+
+    "grey": {
+        "designers": [
+
+        ],
+        "images": [
+            "igcollectioncorestudio/grey1.jpg",
+            "igcollectioncorestudio/grey2.jpg",
+            "igcollectioncorestudio/grey3.jpg",
+            "igcollectioncorestudio/grey4.jpg",
+            "igcollectioncorestudio/grey5.jpg",
+            "igcollectioncorestudio/grey6.jpg",
+            "igcollectioncorestudio/grey7.jpg",
+            "igcollectioncorestudio/grey8.jpg",
+            "igcollectioncorestudio/grey9.jpg",
+            "igcollectioncorestudio/grey10.jpg"
+        ]
+    },
+
+    "blue": {
+        "designers": [
+
+        ],
+        "images": [
+            "igcollectioncorestudio/blue1.jpg",
+            "igcollectioncorestudio/blue2.jpg",
+            "igcollectioncorestudio/blue4.jpg",
+            "igcollectioncorestudio/blue5.jpg",
+            "igcollectioncorestudio/blue6.jpg",
+            "igcollectioncorestudio/blue3.jpg",
+            "igcollectioncorestudio/blue7.jpg",
+            "igcollectioncorestudio/blue8.jpg"
+        ]
+    },
+    
+    "lightblue": {
+        "designers": [
+
+        ],
+        "images": [
+            "igcollectioncorestudio/lightblue1.jpg",
+            "igcollectioncorestudio/lightblue2.jpg",
+            "igcollectioncorestudio/lightblue3.jpg",
+            "igcollectioncorestudio/lightblue4.jpg",
+            "igcollectioncorestudio/lightblue5.jpg",
+            "igcollectioncorestudio/lightblue6.jpg",
+            "igcollectioncorestudio/lightblue7.jpg"
+        ]
+    },
+            "orange": {
+        "designers": [
+
+        ],
+        "images": [
+            "igcollectioncorestudio/orange1.jpg",
+            "igcollectioncorestudio/orange2.jpg",
+            "igcollectioncorestudio/orange3.jpg",
+            "igcollectioncorestudio/orange4.jpg",
+            "igcollectioncorestudio/orange5.jpg",
+            "igcollectioncorestudio/orange6.jpg",
+            "igcollectioncorestudio/orange7.jpg"
+        ]
+    },
+        "red": {
+        "designers": [
+
+        ],
+        "images": [
+            "igcollectioncorestudio/red1.jpg",
+            "igcollectioncorestudio/red2.jpg",
+            "igcollectioncorestudio/red3.jpg",
+            "igcollectioncorestudio/red4.jpg",
+            "igcollectioncorestudio/red5.jpg",
+            "igcollectioncorestudio/red6.jpg",
+            "igcollectioncorestudio/red7.jpg",
+            "igcollectioncorestudio/red8.jpg",
+            "igcollectioncorestudio/red9.jpg",
+            "igcollectioncorestudio/red10.jpg",
+            "igcollectioncorestudio/red11.jpg",
+            "igcollectioncorestudio/red12.jpg"
+        ]
+    },
+        "yellow": {
+        "designers": [
+
+        ],
+        "images": [
+            "igcollectioncorestudio/yellow1.jpg",
+            "igcollectioncorestudio/yellow2.jpg",
+            "igcollectioncorestudio/yellow3.jpg",
+            "igcollectioncorestudio/yellow4.jpg",
+            "igcollectioncorestudio/yellow5.jpg",
+            "igcollectioncorestudio/yellow6.jpg",
+            "igcollectioncorestudio/yellow7.jpg",
+            "igcollectioncorestudio/yellow8.jpg",
+            "igcollectioncorestudio/yellow9.jpg"
+        ]
+    }
+}
