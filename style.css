@@ -12,6 +12,7 @@
                 left: 0%;
                 top: 0;
                 z-index: 2;
+                cursor: pointer;
             }
 
             .column {
@@ -270,8 +271,8 @@
             }
 
             .popup {
-            	width: 80vw;
-            	height: 100vh;
+            	width: 50vw;
+            	height: 95vh;
             	background-color: lightgrey;
             	position: fixed;
             	top: 0;
@@ -281,15 +282,16 @@
                 right: 0;
                 margin: 0px;
                 padding: 0px;
-                margin-top: 20px;
+                margin-top: 19px;
                 margin-left: auto;
                 margin-right: auto;
                 transition: opacity 2s;
+                cursor: s-resize;
             }
 
             .popup > img{
-                width: 100%;
-                margin-bottom: 10px;
+            	width: 100%;
+                margin-bottom: 8px;
             }
 
             .exit {
@@ -297,7 +299,7 @@
             background-color: lightgrey;
             color: white;
             top: 4vh;
-            left: 11vw;
+            left: 26vw;
             z-index: 100;
             /*border: none;*/
             
